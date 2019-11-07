@@ -1,1 +1,5 @@
 https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07
+
+https://howtodoinjava.com/gang-of-four-java-design-patterns/
+
+https://howtodoinjava.com/design-patterns/behavioral/strategy-design-pattern/
